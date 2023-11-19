@@ -1,0 +1,15 @@
+Movement of player saya : 1
+Movement of player dil : 2
+Movement of player saya : 4
+Movement of player dil : 5
+Movement of player saya : 7
+Movement of player aa : 1
+Movement of player Computer : 1
+Movement of player aa : 2
+Movement of player Computer : 2
+Movement of player aa : 4
+Movement of player Computer : 7
+Movement of player aa : 3
+Movement of player Computer : 5
+Movement of player aa : 7
+Movement of player Computer : 4
